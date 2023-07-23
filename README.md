@@ -22,9 +22,9 @@ The library had been used for performance evaluation and comparison when authori
 
 - Y. Li, J. Wang, S. Zhang, Z. Bao and J. Wang, "Efficient Coastal Communications with Sparse Network Coding," in IEEE Network, vol. 32, no. 4, pp. 122-128, July/August 2018.
 
-- Y. Li, J. Zhou, J. Wang, Z. Bao, T. Q. S. Quek and J. Wang, "On Data Dissemination Enhanced by Network Coded Device-to-Device Communications," in IEEE Transactions on Wireless Communications, 2020. doi: 10.1109/TWC.2020.2979145 (Early Access: https://ieeexplore.ieee.org/document/9036050)
+- Y. Li, J. Zhou, J. Wang, Z. Bao, T. Q. S. Quek and J. Wang, "On Data Dissemination Enhanced by Network Coded Device-to-Device Communications," in IEEE Transactions on Wireless Communications, vol. 19, no. 6, pp. 3963-3976, June 2020, doi: 10.1109/TWC.2020.2979145.
 
-- Y. Li, B. Tang, J. Wang and Z. Bao, "On Multi-Hop Short-Packet Communications: Recoding or End-to-End Fountain Coding?," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2020.3005409 (Early Access: https://ieeexplore.ieee.org/document/9127789)
+- Y. Li, B. Tang, J. Wang and Z. Bao, "On Multi-Hop Short-Packet Communications: Recoding or End-to-End Fountain Coding?," in IEEE Transactions on Vehicular Technology, vol. 69, no. 8, pp. 9229-9233, Aug. 2020, doi: 10.1109/TVT.2020.3005409.
 
 Usage
 ============
